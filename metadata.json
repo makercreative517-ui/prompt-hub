@@ -1,0 +1,5 @@
+{
+  "name": "NanoPrompt Pro",
+  "description": "Generate high-quality text prompts from images, optimized for the Gemini 3 Pro Image (Nano Banana Pro) model. Includes a built-in image generator to test your prompts.",
+  "requestFramePermissions": []
+}
